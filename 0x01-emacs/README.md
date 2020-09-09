@@ -1,0 +1,1 @@
+The second project for zero day, which involves working with the *emacs* text editor.
