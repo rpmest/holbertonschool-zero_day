@@ -1,0 +1,1 @@
+The third project for day zero, which involves getting familiar with the vi editor
